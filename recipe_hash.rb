@@ -1,14 +1,3 @@
-# desserts = {
-#   :cookie => "chocolate chip",
-#   :brownie => "brookie",
-#   :cake => "red velvet",
-#   :ice_cream => "chocolate"
-# }
-
-# # : - symnbol 
-
-#RECIPE HASH 
-
 perfect_10_hash = {
   :gluten_free_whole_oats => "1 cup",
   :almond_flour => "2 cups",
@@ -80,4 +69,3 @@ perfect_10_hash.each_value do |amount|
 end
 
 ingredients
-  
